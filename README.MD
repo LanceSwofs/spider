@@ -6,5 +6,5 @@
 # chromedriver
 > 注意:chrome和chromedriver需要匹配.通过notes.txt查看对应关系
 [download](http://chromedriver.storage.googleapis.com/index.html)
-# res
-> res资源文件夹需要放置在和jar包相同目录
+# linux环境部署
+> res资源文件夹需要放置在和jar包相同目录,chrome运行需要Xvfb

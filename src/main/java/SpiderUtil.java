@@ -61,8 +61,8 @@ public class SpiderUtil {
         prefs.put("profile.default_content_setting_values.notifications", 2);
         prefs.put("profile.managed_default_content_settings.images", 2);
         options.setExperimentalOption("prefs", prefs);
-        //设置headless模式
         options.addArguments("--proxy-server=http://" + "119.123.173.127:9797");
+        //设置headless模式
         options.addArguments("--headless");
         options.addArguments("--disable-gpu");
 //        options.addArguments("--no-sandbox");
