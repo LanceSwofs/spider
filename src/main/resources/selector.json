@@ -1,0 +1,97 @@
+[
+  {
+    "key": "registered_capital",
+    "name": "注册资本",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(1) > td:nth-child(2)"
+  },
+  {
+    "key": "business_status",
+    "name": "经营状态",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(2) > td:nth-child(2)"
+  },
+  {
+    "key": "unified_social_credit_code",
+    "name": "统一社会信用代码",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(3) > td:nth-child(2)"
+  },
+  {
+    "key": "taxpayer_identification_number",
+    "name": "纳税人识别号",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(4) > td:nth-child(2)"
+  },
+  {
+    "key": "operating_period",
+    "name": "营业期限",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(5) > td:nth-child(2)"
+  },
+  {
+    "key": "taxpayer_qualification",
+    "name": "纳税人资质",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(6) > td:nth-child(2)"
+  },
+  {
+    "key": "in_capital",
+    "name": "实缴资本",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(7) > td:nth-child(2)"
+  },
+  {
+    "key": "participants_number",
+    "name": "参保人数",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(8) > td:nth-child(2)"
+  },
+  {
+    "key": "registered_address",
+    "name": "注册地址",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(9) > td:nth-child(2)"
+  },
+  {
+    "key": "business_scope",
+    "name": "经营范围",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(10) > td:nth-child(2)"
+  },
+  {
+    "key": "establishment_date",
+    "name": "成立日期",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(1) > td:nth-child(4)"
+  },
+  {
+    "key": "business_registration_number",
+    "name": "工商注册号",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(2) > td:nth-child(4)"
+  },
+  {
+    "key": "organization_code",
+    "name": "组织机构代码",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(3) > td:nth-child(4)"
+  },
+  {
+    "key": "company_type",
+    "name": "公司类型",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(4) > td:nth-child(4)"
+  },
+  {
+    "key": "industry",
+    "name": "行业",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(5) > td:nth-child(4)"
+  },
+  {
+    "key": "approval_date",
+    "name": "核准日期",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(6) > td:nth-child(4)"
+  },
+  {
+    "key": "staff_size",
+    "name": "人员规模",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(7) > td:nth-child(4)"
+  },
+  {
+    "key": "registration_authority",
+    "name": "登记机关",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(8) > td:nth-child(4)"
+  },
+  {
+    "key": "english_name",
+    "name": "英文名称",
+    "css_selector": "#_container_baseInfo > table.table.-striped-col.-border-top-none > tbody > tr:nth-child(9) > td:nth-child(4)"
+  }
+]
